@@ -1,0 +1,25 @@
+{
+	"name": "zunyunkeji/image-color",
+	"description": "获取图片主要组成颜色并按颜色进行分组。",
+	"keywords": ["image", "color", "图片取色", "图片主色"],
+
+	"homepage": "http://www.wdphp.com",
+	"authors": [
+		{
+			"name": "缘境",
+			"email": "yvsm@163.com",
+			"homepage": "http://www.zunyunkeji.com"
+		}
+	],
+
+	"license": "MIT",
+	"require": {
+		"php": "^5.5 || ^7.0",
+		"mischiefcollective/colorjizz": "^1.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"zunyunkeji\\imageColor\\": "src/"
+		}
+	}
+}
