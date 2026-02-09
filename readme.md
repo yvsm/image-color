@@ -1,7 +1,7 @@
 ## Image Color
 
 获取图片看主要颜色，以方便根据颜色对图片进行分类排序
-更多源码可访问  [http://www.wdphp.com](http://www.wdphp.com)
+更多源码可访问  [http://www.wdphp.cn](http://www.wdphp.cn)
 
 
 ### Composer
